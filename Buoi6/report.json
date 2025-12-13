@@ -1,0 +1,26 @@
+[
+    {
+        "ID": "SV001",
+        "HoVaTen": "Nguyễn Văn An",
+        "Diem": 8.5,
+        "Loai": "Giỏi"
+    },
+    {
+        "ID": "SV002",
+        "HoVaTen": "Trần Thị Bình",
+        "Diem": 9,
+        "Loai": "Xuất sắc"
+    },
+    {
+        "ID": "SV003",
+        "HoVaTen": "Lê Văn Cường",
+        "Diem": 6,
+        "Loai": "Trung bình"
+    },
+    {
+        "ID": "SV004",
+        "HoVaTen": "Phạm Thị Mai",
+        "Diem": 7.5,
+        "Loai": "Khá"
+    }
+]
